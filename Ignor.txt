@@ -1,1 +1,1 @@
-﻿werwerprint('Я домашка')
+﻿2werwerprint('Я домашка')
